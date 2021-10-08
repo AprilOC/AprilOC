@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AprilOC
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Java, and SQL
 - 💞️ I’m looking to collaborate on any AI projects
 - 📫 How to reach me asbrown2@hotmail.com
 
