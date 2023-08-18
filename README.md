@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AprilOC
-- 👀 I’m interested in AI.
-- 🌱 I’m currently learning Python and SQL. 
-- 💞️ I’m looking to collaborate on any AI projects
+- 👀 I’m interested in Cybersecurity.
+- 🌱 I’m currently learning about security audits.
+- 💞️ I’m looking for opportunities to learn more about mitigating risk. 
 - 📫 How to reach me: send me a PM
 
 <!---
