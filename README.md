@@ -1,4 +1,4 @@
-Still working on what I want to be when I grow up. 
+I am interested in product testing and user experience. 
 
 <!---
 AprilOC/AprilOC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
